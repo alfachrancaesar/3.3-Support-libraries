@@ -1,3 +1,3 @@
 # 3.3-Support-libraries
 
-YouTube link: https://www.youtube.com/watch?v=jp_fk21NfVw&feature=youtu.be
+YouTube link: https://youtu.be/jp_fk21NfVw
